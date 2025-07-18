@@ -1,2 +1,2 @@
-# FastQSAR
+# QSARlazy
 Fast QSAR model building
